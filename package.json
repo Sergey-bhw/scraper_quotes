@@ -1,0 +1,17 @@
+{
+  "name": "scrape_quotes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "cheerio": "^1.0.0-rc.2",
+    "needle": "^2.1.0",
+    "sqlite3": "^3.1.13"
+  }
+}
